@@ -52,7 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmetilboga2004/ahmetilboga2004/output/snake.svg" alt="Snake animation" />
 
 ###
 
