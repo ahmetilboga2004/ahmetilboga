@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Currently developing the NetWork platform.<br>📚 I love researching current technologies<br>🎯 My goal is to develop useful software for humanity.</p>
+<p align="left">👩🏻‍💻 Currently developing the NeeWork Freelancer platform.<br>📚 I love researching current technologies<br>🎯 My goal is to develop useful software for humanity.</p>
 
 ###
 
