@@ -1,5 +1,17 @@
+![Hi 👋, I'm Ahmet. I’m a web developer. <p>I write code, get bugs, and write code again.</p>](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
 # 💫 About Me:
-👋 Hello, I'm Ahmet Ilboga. I'm 20 years old and a Full Stack Web Developer.<br><br>🎓 I studied Computer Programming at Mardin Artuklu University and gained experience through freelance projects. However, I haven't had the chance to work for a company yet.<br><br>💻 My expertise is in web development. I specialize in backend development using Node.js and am skilled in Vue js for frontend work. I have experience with databases like PostgreSQL and MongoDB, as well as familiarity with Vue.js.<br><br>🌐 I develop RESTful APIs, manage databases, and design web project architectures. My goal is to specialize further by working on large-scale projects and exploring innovative solutions in web3 projects.<br><br>⏳ In my spare time, I enjoy contributing to open-source projects and learning about new technologies. I also have a passion for music, which I enjoy during my free time.<br><br>🤝 Working collaboratively with team members and developing projects motivates me. I value continuous learning and gaining knowledge from others, which drives my journey.
+Hi 👋, I'm Ahmet. I’m a web developer. I write code, get bugs, and write code again.<br>
+
+🔧 I work with both backend and frontend, but if you ask me, I’d always choose backend. I love writing APIs and working with databases. I use Node.js, Express.js, and PostgreSQL, but I’m also pretty familiar with MongoDB, Redis, and Sequelize. And yes, Nest.js is in the mix too!<br>
+
+🌱 Recently, I’ve been learning Go. Its static typing, JavaScript-like syntax, and the ease of writing microservices caught my attention. Plus, it has a cute mascot: the Gopher! That’s one more reason I like Go.<br>
+
+💻 On the frontend, I work with Vue.js and Tailwind. I write unit tests with Jest because I believe every line of code deserves to be tested. When I’m not coding, you’ll find me watching software videos on YouTube, hanging out on Discord, or reading tech articles.<br>
+
+🤝 I’m developing a platform to help people find project partners. In the future, I hope to build a successful team and create awesome projects. Who knows, maybe I'll even dive into Web3!<br>
+
+🎓 By the way, I hold an associate degree in Computer Programming from Mardin Artuklu University.
 
 
 ## 🌐 Socials:
